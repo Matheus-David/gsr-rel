@@ -1,0 +1,6 @@
+site_name: Relatório de gerencia e segurança de  redes
+site_dir: /var/www/html
+
+theme:
+ name: material
+ language: pt
