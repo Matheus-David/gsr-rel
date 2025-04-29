@@ -15,7 +15,7 @@ flowchart LR
     B --> n3["Sequências Aleatórias"]
 
     n1 --> n4["Cifras de chave simétrica"]
-    n1 --> n5["MACs"]
+    n1 --> n5["Funções hash de comprimento arbitrário (MACs)"]
     n1 --> n6["Assinaturas"]
     n1 --> n10["Sequências Pseudoaleatórias"]
     n1 --> n11["Primitivas de Identificação"]
